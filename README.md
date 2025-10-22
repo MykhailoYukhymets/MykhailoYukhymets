@@ -28,7 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MykhailoYukhymets&show_icons=true&theme=cobalt" alt="Mykhailo's GitHub stats" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykhailoYukhymets&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=MykhailoYukhymets&show_icons=true&theme=cobalt" alt="Mykhailo's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MykhailoYukhymets&layout=compact" alt="Top Langs" />
 
 ---
