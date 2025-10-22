@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Mykhailo Yukhymets
 
 Frontend & Web Development
@@ -28,4 +29,4 @@ Frontend & Web Development
 ---
 
 ##
-![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykhailoYukhymets&show_icons=true&theme=transparent)
+![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykhailoYukhymets&show_icons=true&theme=cobalt)
