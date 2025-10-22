@@ -19,12 +19,6 @@
 
 ---
 
-## 💻 Projects
-- **Tic Tac Toe Game** – React project implementing a "Tic Tac Toe" game  
-- **OpenCart Gallery** – Product gallery with Swiper.js  
-- **WooCommerce Custom CSV Export** – Exporting users using Carbon Fields  
-
----
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-banyfmb@gmail.com-c14438?logo=gmail&logoColor=white)](mailto:banyfmb@gmail.com)
