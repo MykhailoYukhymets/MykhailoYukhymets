@@ -25,3 +25,7 @@ Frontend & Web Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MykhailoYukhymets-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-yukhymets-0ab218225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Telegram](https://img.shields.io/badge/Telegram-@BanyMUV-0088cc?logo=telegram&logoColor=white)](https://t.me/BanyMUV)
 
+---
+
+##
+![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykhailoYukhymets&show_icons=true&theme=transparent)
